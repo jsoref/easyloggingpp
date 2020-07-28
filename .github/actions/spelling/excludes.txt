@@ -1,0 +1,5 @@
+^samples/Qt/fast-dictionary/words\.txt$
+\.bmp$
+\.gif$
+\.suo$
+ignore$
